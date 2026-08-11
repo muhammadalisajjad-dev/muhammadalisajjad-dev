@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0F172A&height=120&text=Ali%20Sajjad&fontSize=48&fontColor=F1F5F9&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%94%20AI%20Developer&descSize=16&descAlignY=72&descColor=60A5FA&stroke=3B82F6&strokeWidth=2" width="100%"/>
+<img src="https://raw.githubusercontent.com/muhammadalisajjad-dev/muhammadalisajjad-dev/main/banner.svg" width="100%" alt="Ali Sajjad" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+systems+that+hold+under+pressure.;Node.js+%7C+Python+%7C+Docker+%7C+PostgreSQL+%7C+LangGraph;Multi-agent+LLM+pipelines+%7C+Prompt+Engineering;FAST-NUCES+Islamabad+%7C+Graduating+June+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Node.js+%7C+Python+%7C+Docker+%7C+PostgreSQL+%7C+LangGraph;Multi-agent+LLM+pipelines+%7C+Prompt+Engineering;Building+systems+that+hold+under+pressure.;FAST-NUCES+Islamabad+%7C+Graduating+June+2027)](https://git.io/typing-svg)
 
 <br/>
 
@@ -97,7 +97,7 @@ Engineered a prompt from a naive one-liner to a six-layer system: role, constrai
 ---
 
 ### Multi-Agent LLM Coordination Middleware
-Middleware for detecting semantic divergence between LangGraph agents — when one agent's output drifts from shared workflow state, selectively re-syncs only the broken agent. Failure attribution with confidence scores per agent. Partial prototype; pivoted to evidence-based research when scope exceeded timeline.
+Middleware for detecting semantic divergence between LangGraph agents — selectively re-syncs only the broken agent instead of full restart. Failure attribution with confidence scores per agent. Partial prototype built; pivoted to evidence-based research when scope exceeded timeline.
 
 > `Python` · `LangGraph` · `FastAPI` · `SQLite` · `React`
 
@@ -105,7 +105,7 @@ Middleware for detecting semantic divergence between LangGraph agents — when o
 
 ### OS & Systems — Low-Level Work
 - **OS:** Deadlock detection (RAG + DFS), Banker's Algorithm, lock ordering, pthreads, semaphores, condition variables, fork/exec/pipes/signals
-- **Networks:** OMNeT++ CNET simulation comparing Static Routing vs RIP vs OSPF; PAT in Cisco Packet Tracer  
+- **Networks:** OMNeT++ CNET simulation comparing Static Routing vs RIP vs OSPF; PAT in Cisco Packet Tracer
 - **DB:** EER → relational mapping, normalization through 5NF, SQL Server, C# Windows Forms
 
 ---
@@ -123,5 +123,5 @@ Middleware for detecting semantic divergence between LangGraph agents — when o
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0A0F1E&height=60&text=Direct.%20Systems-first.%20Building%20under%20real%20constraints.&fontSize=13&fontColor=60A5FA&stroke=1E293B&strokeWidth=1" width="100%"/>
+<sub>Direct. Systems-first. Building under real constraints.</sub>
 </div>
