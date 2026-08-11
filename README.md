@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/muhammadalisajjad-dev/muhammadalisajjad-dev/main/banner.svg" width="100%" alt="Ali Sajjad" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F172A,50:1D4ED8,100:0A0F1E&height=200&text=Ali%20Sajjad&fontSize=50&fontColor=F1F5F9&desc=Backend%20Engineer%20%E2%80%94%20AI%20Developer&descColor=60A5FA&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
