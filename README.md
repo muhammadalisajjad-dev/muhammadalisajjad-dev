@@ -1,17 +1,14 @@
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║         Ali Sajjad — Backend & AI Engineer                    ║
-║         Building systems that hold under pressure.            ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:0F172A&height=120&text=Ali%20Sajjad&fontSize=48&fontColor=F1F5F9&fontAlignY=45&desc=Backend%20Engineer%20%E2%80%94%20AI%20Developer&descSize=16&descAlignY=72&descColor=60A5FA&stroke=3B82F6&strokeWidth=2" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=Node.js+%7C+Python+%7C+Docker+%7C+PostgreSQL;Multi-agent+LLM+pipelines+%7C+Prompt+Engineering;Layered+APIs+that+don't+break+when+requirements+change;FAST-NUCES+Islamabad+%7C+Graduating+June+2027)](https://git.io/typing-svg)
+<br/>
 
-📍 Islamabad, Pakistan &nbsp;|&nbsp; 📬 i230110@isb.nu.edu.pk &nbsp;|&nbsp; 🌐 [Portfolio](https://muhammadalisajjad-dev.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Building+systems+that+hold+under+pressure.;Node.js+%7C+Python+%7C+Docker+%7C+PostgreSQL+%7C+LangGraph;Multi-agent+LLM+pipelines+%7C+Prompt+Engineering;FAST-NUCES+Islamabad+%7C+Graduating+June+2027)](https://git.io/typing-svg)
+
+<br/>
+
+📍 Islamabad, Pakistan &nbsp;·&nbsp; 📬 i230110@isb.nu.edu.pk &nbsp;·&nbsp; 🌐 [Portfolio](https://muhammadalisajjad-dev.github.io)
 
 </div>
 
@@ -34,7 +31,6 @@ I build backend systems with real layering — not monoliths that collapse when 
 | **Perplexity** | Evidence-based research, source-grounded answers |
 | **Trae AI** | AI-native IDE workflows |
 | **OpenCode** | Local LLM coding via OpenRouter (Qwen, Kimi, Nemotron) |
-| **GitHub Copilot** | In-editor completions |
 
 ---
 
@@ -87,31 +83,30 @@ I build backend systems with real layering — not monoliths that collapse when 
 ## Projects
 
 ### [CRUD API — Layered Architecture](https://github.com/muhammadalisajjad-dev/flyrank-backend-milestones)
-Built a Node.js/Express API from scratch, then refactored it from a monolith into three clean layers: routes (HTTP), services (business logic), repositories (storage). The point: swapping SQLite for Postgres means rewriting one file. The API contract — what clients depend on — never moves. Swagger UI docs, 7 commits showing the full progression.
+Built a Node.js/Express API from scratch, then refactored from monolith to three clean layers: routes (HTTP), services (business logic), repositories (storage). Swapping SQLite for Postgres rewrites one file. The API contract never moves. Swagger UI docs, 7 commits showing full progression.
 
-> **Stack:** Node.js · Express · SQLite → PostgreSQL · Docker · Swagger · REST
+> `Node.js` · `Express` · `SQLite → PostgreSQL` · `Docker` · `Swagger`
 
 ---
 
 ### Rubric Gap Analysis — Prompt Engineering Framework
-Engineered a prompt from a naive one-liner to a six-layer system: role, constraints, few-shot examples, step decomposition, output format, guardrails. Tested on Claude vs DeepSeek. Finding: DeepSeek reassured confidently but missed critical misalignments at runtime. Claude caught them upfront with the right prompt. Output: a reusable template that catches grading gaps before they cost marks.
+Engineered a prompt from a naive one-liner to a six-layer system: role, constraints, few-shot examples, step decomposition, output format, guardrails. Tested Claude vs DeepSeek. DeepSeek missed critical misalignments at runtime. Claude caught them upfront. Output: reusable template that catches grading gaps before they cost marks.
 
-> **Stack:** Claude API · DeepSeek · Prompt Engineering · Cross-model evaluation
+> `Claude API` · `DeepSeek` · `Prompt Engineering` · `Cross-model evaluation`
 
 ---
 
 ### Multi-Agent LLM Coordination Middleware
-Designed a middleware layer for detecting semantic divergence between LangGraph agents — when one agent's output drifts from the shared workflow state, the layer selectively re-syncs only the broken agent instead of restarting everything. Failure attribution with confidence scores per agent. Partial prototype built; pivoted to evidence-based research when scope exceeded timeline.
+Middleware for detecting semantic divergence between LangGraph agents — when one agent's output drifts from shared workflow state, selectively re-syncs only the broken agent. Failure attribution with confidence scores per agent. Partial prototype; pivoted to evidence-based research when scope exceeded timeline.
 
-> **Stack:** Python · LangGraph · FastAPI · SQLite · React
+> `Python` · `LangGraph` · `FastAPI` · `SQLite` · `React`
 
 ---
 
-### OS & Systems — Low-Level Work (FAST-NUCES)
-Real systems programming across three courses:
+### OS & Systems — Low-Level Work
 - **OS:** Deadlock detection (RAG + DFS), Banker's Algorithm, lock ordering, pthreads, semaphores, condition variables, fork/exec/pipes/signals
-- **Networks:** OMNeT++ CNET simulation comparing Static Routing vs RIP vs OSPF; PAT configuration in Cisco Packet Tracer
-- **DB:** EER → relational mapping, normalization through 5NF, SQL Server, C# Windows Forms integration
+- **Networks:** OMNeT++ CNET simulation comparing Static Routing vs RIP vs OSPF; PAT in Cisco Packet Tracer  
+- **DB:** EER → relational mapping, normalization through 5NF, SQL Server, C# Windows Forms
 
 ---
 
@@ -119,7 +114,7 @@ Real systems programming across three courses:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=muhammadalisajjad-dev&show_icons=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&border_color=1E293B&count_private=true&hide_border=false" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=muhammadalisajjad-dev&show_icons=true&bg_color=0F172A&title_color=60A5FA&icon_color=3B82F6&text_color=CBD5E1&border_color=1E293B&count_private=true" height="155"/>
 
 <img src="https://streak-stats.demolab.com?user=muhammadalisajjad-dev&theme=dark&background=0F172A&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA&border=1E293B" height="155"/>
 
@@ -128,9 +123,5 @@ Real systems programming across three courses:
 ---
 
 <div align="center">
-
-*Direct. Systems-first. Building under real constraints.*
-
-**[muhammadalisajjad-dev.github.io](https://muhammadalisajjad-dev.github.io)**
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0A0F1E&height=60&text=Direct.%20Systems-first.%20Building%20under%20real%20constraints.&fontSize=13&fontColor=60A5FA&stroke=1E293B&strokeWidth=1" width="100%"/>
 </div>
